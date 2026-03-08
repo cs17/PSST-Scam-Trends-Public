@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "fileName": "gemma-scam-q4km.gguf",
+  "downloadUrl": "https://drive.usercontent.google.com/download?id=19R_heiTg__xILGUWb6ewXuyWyzLkPyxb&export=download&confirm=t",
+  "sizeBytes": 805306368,
+  "releaseDate": "2026-03-08",
+  "releaseNotes": "Initial scam detection model"
+}

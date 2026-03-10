@@ -1,81 +1,98 @@
 {
-  "date": "2026-03-05",
-  "generatedAt": 1772694762447,
+  "date": "2026-03-10",
+  "generatedAt": 1773106213994,
   "sources": [
     "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam"
   ],
   "trends": [
     {
-      "title": "Impersonation of Companies' Senior Executives on WhatsApp",
-      "category": "impersonation",
+      "title": "Cryptocurrency Transfer Scams on the Rise",
+      "category": "investment",
       "keywords": [
-        "WhatsApp",
-        "senior executives",
-        "CEO fraud",
-        "business email compromise",
-        "company impersonation",
-        "corporate scam"
+        "cryptocurrency",
+        "crypto transfer",
+        "digital assets",
+        "Bitcoin",
+        "scam advisory"
       ],
       "sampleMessages": [],
       "campaign": null,
       "severity": "HIGH",
-      "id": "2dbaa32c-25ef-4d81-8320-8d4e3b23d405",
+      "id": "e9785230-3440-4dbd-b4b9-52f9ce06cfad",
       "source": "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam",
       "sourceTitle": "Singapore Police Force \u2014 Scam Advisories"
     },
     {
-      "title": "Transnational Scam Syndicate Money Laundering Network",
+      "title": "Fraudulent SIM Card Registration",
       "category": "other",
       "keywords": [
-        "money laundering",
-        "transnational",
-        "scam syndicate",
-        "money mules",
-        "financial crime",
-        "cross-border"
+        "SIM card",
+        "fraudulent registration",
+        "telco fraud",
+        "identity misuse"
       ],
       "sampleMessages": [],
-      "campaign": "Transnational Scam Syndicate Investigation",
-      "severity": "CRITICAL",
-      "id": "bbf4855c-7a8c-48d0-b817-7f8d485490b0",
-      "source": "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam",
-      "sourceTitle": "Singapore Police Force \u2014 Scam Advisories"
-    },
-    {
-      "title": "Islandwide Scammer and Money Mule Network",
-      "category": "other",
-      "keywords": [
-        "money mules",
-        "scammers",
-        "enforcement operation",
-        "islandwide",
-        "167 suspects"
-      ],
-      "sampleMessages": [],
-      "campaign": "Islandwide Enforcement Operation",
+      "campaign": null,
       "severity": "HIGH",
-      "id": "00813074-3b4d-4fb4-b867-4ab42bc89ebc",
+      "id": "39b1b90f-2e32-48a2-ac11-690e57b4c670",
+      "source": "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam",
+      "sourceTitle": "Singapore Police Force \u2014 Scam Advisories"
+    },
+    {
+      "title": "Cross-Border Scam Syndicates (Malaysian Nationals)",
+      "category": "other",
+      "keywords": [
+        "Malaysia",
+        "cross-border",
+        "scam syndicate",
+        "foreign nationals",
+        "organised crime"
+      ],
+      "sampleMessages": [],
+      "campaign": null,
+      "severity": "CRITICAL",
+      "id": "6d5fdb93-8e4c-43d7-b63d-9da6f32108fd",
+      "source": "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam",
+      "sourceTitle": "Singapore Police Force \u2014 Scam Advisories"
+    },
+    {
+      "title": "Unlicensed Moneylending and Loanshark Harassment",
+      "category": "other",
+      "keywords": [
+        "loanshark",
+        "unlicensed moneylending",
+        "harassment",
+        "illegal lending",
+        "ah long"
+      ],
+      "sampleMessages": [],
+      "campaign": "Seven-Day Islandwide Police Operation",
+      "severity": "MEDIUM",
+      "id": "9f20788d-0e80-47a7-9cdb-db70afbc3650",
       "source": "https://www.police.gov.sg/Media-Hub/News?type=All&from=From&to=To&keyword=scam",
       "sourceTitle": "Singapore Police Force \u2014 Scam Advisories"
     }
   ],
   "keywords": [
-    "WhatsApp",
-    "senior executives",
-    "CEO fraud",
-    "business email compromise",
-    "company impersonation",
-    "corporate scam",
-    "money laundering",
-    "transnational",
-    "scam syndicate",
-    "money mules",
-    "financial crime",
+    "cryptocurrency",
+    "crypto transfer",
+    "digital assets",
+    "Bitcoin",
+    "scam advisory",
+    "SIM card",
+    "fraudulent registration",
+    "telco fraud",
+    "identity misuse",
+    "Malaysia",
     "cross-border",
-    "scammers",
-    "enforcement operation",
-    "islandwide",
-    "167 suspects"
+    "scam syndicate",
+    "foreign nationals",
+    "organised crime",
+    "loanshark",
+    "unlicensed moneylending",
+    "harassment",
+    "illegal lending",
+    "ah long"
   ],
-  "summary": "Top scam trends: Impersonation of Companies' Senior Executives on WhatsApp; Transnational Scam Syndicate Money Laundering Network; Islandwide Scammer and Money Mule Network"
+  "summary": "Top scam trends: Cryptocurrency Transfer Scams on the Rise; Fraudulent SIM Card Registration; Cross-Border Scam Syndicates (Malaysian Nationals)"
 }
